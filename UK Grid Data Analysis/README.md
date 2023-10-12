@@ -50,4 +50,4 @@ CO2 Emmissions Table and Graphs and 3D chart the table is shown to first be outp
 
 <img src="img/Total_UK_CO2_Emissions_omitting_Coal&Gas.png" alt="Total CO2 Emissions omitting Coal & Gas">
 
-<img src="img/Comparison_of_UKs_Cleanest_Energy_Sources" alt="Comparison of UK's Cleanest Energy Sources">
+<img src="img/Comparison_of_UKs_Cleanest_Energy_Sources.png" alt="Comparison of UK's Cleanest Energy Sources">

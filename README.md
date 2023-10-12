@@ -3,7 +3,7 @@
 
 ## Current Projects include:
 Calculus calculations - Calculates a set of calculus problems<br>
-Deflection of a Wind Turbine Blade - Calculates the Max Deflection within tolerances<br>
+Deflection of a Wind Turbine Blade - Calculates the Max Deflection of a turbine blade within tolerances<br>
 Measure of Impact from dropping a Ball<br>
 Statistical Analysis of Temperature Data<br>
 UK Grid Data Analysis - Data Analysis Report, see README in directory<br>
